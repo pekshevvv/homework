@@ -13,4 +13,6 @@ public abstract class Client {
         //TODO: реализуйте метод и удалите todo
     }
 
+    // новый комментарий
+
 }
